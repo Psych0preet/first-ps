@@ -1,0 +1,24 @@
+body{
+	background-color: lightgray;
+}
+h1{
+	font-size: 60px;
+	color: darkred;
+}
+h2 {
+	font-size: 30px;
+	color: green;
+}
+
+.pp{
+	background-color: brown;
+}
+.pr{
+	background-color: blue;
+}
+.pp.pr{
+	background-color: yellow;
+}
+span{
+	color: lightblue;
+}
